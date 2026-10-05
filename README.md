@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Maxwell 👋
 
-<!--
-**maxwelltetteh049-star/maxwelltetteh049-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a Web Scraping and Data Extraction Specialist with experience collecting, cleaning, and organizing data from websites using Python-based tools.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Lxml
+- Selenium
+- Data Cleaning
+- Automation (Apify)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### E-commerce Product Scraper
+- Extracts product details, prices, ratings, and stock status.
+- Built with Scrapy and Pandas.
+
+### Real Estate Data Collector
+- Collects property listings from multiple sources.
+- Exports data to CSV and Excel.
+
+### LinkedIn Job Scraper
+- Extracts job postings based on keywords and location.
+- Automated scheduling support.
+
+## Contact
+- Upwork: Your Profile Link
+- Linkedin : ....
+- Email: maxwelltdescraper@gmail.com
