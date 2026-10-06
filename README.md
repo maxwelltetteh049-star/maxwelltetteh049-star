@@ -22,6 +22,9 @@ I work with techniques, including API integration, dynamic content extraction, d
 - Lxml
 - requests
 - Mysql database
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Scrapy](https://img.shields.io/badge/Scrapy-Web%20Scraping-green)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-orange)
 
 ## My Goal
 I focus on building scalable and maintainable scraping solutions that deliver accurate, structured, and actionable data while respecting website policies and best practices.
