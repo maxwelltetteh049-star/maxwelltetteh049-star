@@ -14,7 +14,7 @@ I am a Web Scraping and Data Extraction Specialist with experience collecting, c
 
 ## Tools
 - Python
-- Selinium
+- Selenium
 - Lxml
 - requests
 - Mysql
