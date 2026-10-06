@@ -4,11 +4,20 @@
 I am a Web Scraping and Data Extraction Specialist with experience collecting, cleaning, and organizing data from websites using Python-based tools.
 
 ## Skills
-- Python
-- Lxml
-- Selenium
-- Data Cleaning
+- Web scraping
+   - via apis
+   - via html
+- Data extraction
+   - text
+   - files(images, pdfs, etc)
 - Automation (Apify)
+
+## Tools
+- Python
+- Selinium
+- Lxml
+- requests
+- Mysql
 
 ## Featured Projects
 
