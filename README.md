@@ -42,5 +42,5 @@ I focus on building scalable and maintainable scraping solutions that deliver ac
 
 ## Contact
 - Upwork: Your Profile Link
-- Linkedin : ....
+- Linkedin : https://www.linkedin.com/in/maxwelldescraper?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - Email: maxwelltdescraper@gmail.com
